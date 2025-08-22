@@ -1,6 +1,6 @@
 # AutoDoc 2025
 
-![AutoDoc](./images/AutoDoc.png)
+![AutoDoc]([./images/AutoDoc.png](https://raw.githubusercontent.com/JTChila/BI-UnimedPG/refs/heads/main/fd3c07a8-447b-4dd4-8f38-2ac5bc673858.png))
 
 AutoDoc is a tool that simplifies and automates the documentation of Power BI reports, ideal for administrators and analysts seeking efficiency and precision.
 
@@ -15,9 +15,6 @@ AutoDoc is a tool that simplifies and automates the documentation of Power BI re
 
 ---
 
-## Access AutoDoc Online
-
-[AutoDoc - Power BI Documenter](https://autodoc.lawrence.eti.br/)
 
 ---
 
@@ -171,12 +168,6 @@ MIT. See [LICENSE](LICENSE.md).
 
 ---
 
-## Author
-
-- [Lawrence Teixeira - LinkedIn](https://www.linkedin.com/in/lawrenceteixeira/)
-- [Lawrence's Blog](https://lawrence.eti.br)
-
-Contact: [Form](https://lawrence.eti.br/contact/)
 
 ---
 
