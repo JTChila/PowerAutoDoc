@@ -1,0 +1,10 @@
+streamlit
+litellm
+msal
+requests
+pandas
+python-dotenv
+python-docx
+xlsxwriter
+streamlit-javascript
+tiktoken
